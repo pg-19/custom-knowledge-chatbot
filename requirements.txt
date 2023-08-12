@@ -49,8 +49,8 @@ langchain==0.0.262
 # smmap==5.0.0
 # SQLAlchemy @ file:///Users/ec2-user/ci_py311/sqlalchemy_1678379321154/work
 # sqlitedict==2.1.0
-# streamlit==1.25.0
-# streamlit-chat==0.1.1
+streamlit==1.25.0
+streamlit-chat==0.1.1
 # wasabi==1.1.2
 # webencodings==0.5.1
 # websocket-client @ file:///Users/ec2-user/ci_py311/websocket-client_1678317758506/work
